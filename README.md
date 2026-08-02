@@ -1,37 +1,105 @@
-# Gowri Das Lovely — Engineering Portfolio
+# Gowri Das Lovely — Systems Engineering Portfolio
 
-A responsive static portfolio website focused on Systems Engineering and Space Systems.
+A professional portfolio website showcasing my work in Systems Engineering, Space Systems, Modeling & Simulation, Model-Based Systems Engineering, software validation, and artificial intelligence.
 
-## Before publishing
+## About
 
-1. Copy your resume PDF into `assets/` and name it exactly:
-   `Gowri_Das_Lovely_Resume.pdf`
-2. Add your LinkedIn URL to the hero/contact sections when ready.
-3. Review the education and experience wording against your final resume.
+I am a Master of Engineering student in Systems Engineering at Stevens Institute of Technology with interests in:
 
-## Local preview
+- Space Systems Engineering
+- Model-Based Systems Engineering
+- Requirements Engineering
+- Modeling and Simulation
+- Verification and Validation
+- Autonomous Systems
+- Artificial Intelligence for Space Applications
 
-Open `index.html` directly, or run:
+This portfolio highlights selected academic and personal projects that demonstrate both systems-level thinking and technical implementation.
 
-```bash
-python -m http.server 8000
-```
+## Featured Projects
 
-Then visit `http://localhost:8000`.
+### Mars Surface Logistics Rover
 
-## Deploy with GitHub Pages
+A systems engineering project focused on the design of an autonomous cargo rover for future lunar and Martian surface operations.
 
-1. Upload all files to the root of your `portfolio-website` repository.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch **main** and folder **/(root)**, then save.
-5. Your site will publish at:
-   `https://gowridaslovely-syseng.github.io/portfolio-website/`
+Key areas include:
 
-## Recommended custom repository name
+- Stakeholder needs and requirements
+- Concept of operations
+- Functional decomposition
+- System architecture
+- Autonomy and fault management
+- State and sequence modeling
+- Verification and validation planning
 
-For the cleanest GitHub Pages URL, rename the repository to:
-`Gowridaslovely-syseng.github.io`
+### Cosmic Object Classification
 
-The site will then publish at:
-`https://gowridaslovely-syseng.github.io/`
+A deep-learning project developed to classify astronomical objects such as black holes, nebulae, red giants, and white dwarfs.
+
+Key areas include:
+
+- Convolutional neural networks
+- Image preprocessing
+- Model evaluation
+- Data visualization
+- Python and PyTorch
+- AI applications for scientific discovery
+
+### Movie Ticket Queue Simulation
+
+A discrete-event simulation project used to analyze customer waiting times, service utilization, and queue performance.
+
+Key areas include:
+
+- Queueing theory
+- Modeling and simulation
+- Python
+- Performance analysis
+- Statistical evaluation
+
+### Passport MRZ Validation System
+
+A software engineering and validation project focused on parsing and verifying Machine Readable Zone data.
+
+Key areas include:
+
+- Automated testing
+- Test coverage
+- Mocking
+- Performance testing
+- Validation logic
+- Software quality assurance
+
+## Engineering Capabilities
+
+- Requirements Engineering
+- Systems Architecture
+- MBSE and SysML
+- Functional Decomposition
+- Trade Studies
+- Verification and Validation
+- Modeling and Simulation
+- Python
+- PyTorch
+- NumPy
+- Pandas
+- SimPy
+- Git and GitHub
+- Docker
+- Software Testing
+
+## Portfolio Website
+
+View the live portfolio here:
+
+https://gowridaslovely-syseng.github.io/portfolio-website/
+
+## Repository Structure
+
+```text
+portfolio-website/
+├── assets/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
